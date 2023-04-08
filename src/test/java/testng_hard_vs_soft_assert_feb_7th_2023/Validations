@@ -1,0 +1,27 @@
+
+
+Validations: 
+validation at a webElement label  
+1. isEnabled 
+2. isDisplayed
+3. isSelected 
+
+at a webPage label 
+1. getTitle
+2. getCurrentURL
+3. getPageSource
+
+
+Assertions
+1. Hard Assert or simply assert
+2. Soft Assert 
+
+you cannot apply assertions in before or after method 
+it has to be in test cases 
+
+Assert.assertTrue
+Assert.assertEquals
+Assert.assertNotEquals
+Assert.assertFalse
+
+SOFT ASSERT WILL GIVE YOU THE LOGICAL SEQUENCE

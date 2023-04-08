@@ -1,0 +1,8 @@
+Constructor 
+- many times interviewers will confuse you but please remember constructors are only 
+used to initialize objects, constructor cannot create objects. 
+ 
+three ways you can initialize objects 
+1 -  constructor
+2 - . (dot operator is used to initialize objects. 
+3 - methods 

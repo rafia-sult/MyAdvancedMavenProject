@@ -1,0 +1,104 @@
+Java is an Object Oriented Programming Language
+OOPS (Object Oriented Programming Language System/Structure)
+
+
+There are 6 pillars of Java in OOPS
+	- Class 
+	- Object and Methods 
+	- Inheritance
+	- Polymorphism 
+	- Abstraction
+	- Encapsulation 
+	
+-----------------------------------------------------------------------------------------------------------------------
+	
+Syntax of a class
+
+access modifiers - there are 4 types of access modifiers 
+	- public
+	- private
+	- protected 
+	- default (default is not allowed in class. Default if only allowed in an interface) default if protected access modifiers 
+
+accessmodified   class  Classname {  
+
+//create methods
+//constructors 
+//objects
+//variable/fields
+//blocks
+//nested class
+
+}
+
+What is a Class? 
+- Class is a collection of entities [methods, constructors, objects, variables, blocks, nestedClass]
+- class is a logic form 
+- class is a template/blueprint
+- class represents set of properties that are common to all Objects of one type
+- class does not occupy memory space (cause it is a logical entity not a physical entity) 
+
+logical entity vs physical entity 
+
+for example: Animal is a class name it is logical 
+the attribute of an animal ex: dog, how many legs, color is an object. Object is a physical entity 
+
+-----------------------------------------------------------------------------------------------------------------------
+
+What is an Object? 
+- Instance of a class
+- Object occupies memory because it is a physical entity
+- Object is a physical form. This means it has certain properties 
+	ex: Identity [name]
+		State [Breed/ Ethnicity/ Age/ Etc..]
+		Behavior[lets say dog: barking, running, guarding, eating, sleeping] 
+		
+Categorization of Object is simpler than Class
+
+Technical Definition of an Object: 
+Object is collection of all the non-static 
+
+-----------------------------------------------------------------------------------------------------------------------
+What is Method? 
+- methods are independent units of execution 
+- you cannot write within a method 
+- only the MAIN METHOD have the power of execution but you can call any static method by the name or the class name
+	ex: Animal is the class name and secret is the method name
+		you can call it in the main methos by secret(); or Animal.secret();
+- but for default access modifier which is not static you have to create an object to call it. 
+	- object is created by the class name 
+		ex: Animal animal = new Animal();
+		    animal.loginText();
+
+syntax of method 
+accessmodifier static returntype methodName(parameters){
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

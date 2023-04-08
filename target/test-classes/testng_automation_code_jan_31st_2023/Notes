@@ -1,0 +1,30 @@
+
+
+Please open the url https://testng.org
+click on download 
+Install from update site
+Update site for release: https://testng.org/testng-eclipse-update-site (right click on the link to copy the link address)
+
+
+What is TestNG? 
+TestNG is a testing framework 
+TestNG is an execution engine
+TestNG is a reporting system
+
+Step1: 
+We need to install TextNG for eclipse 
+
+click on help --> install new software --> click on add --> paste the link and name it TestNG --> follow the instructions
+--> select TestNG --> next --> always trust all content --> trust at you own risk --> trust --> eclipse will restart 
+
+https://testng.org/testng-eclipse-update-site
+
+To check if TestNG is installed 
+help --> install new software --> already installed software --> check for TestNG 
+
+ADD TestNG IN YOUR PROJECT
+right click on the project--> properties --> java build path --> libraries --> add library --> select TestNG --> next --> apply and close 
+
+Execution Priority 
+@BeforeSuite > @BeforeTest > @BeforeClass > @BeforeMethod > @Test > @AfterMethod > AfterClass > AfterTest > AfterSuite
+

@@ -1,0 +1,37 @@
+
+Access modifiers: 
+- public 
+- private
+- protected
+- default (no modifiers) 
+
+non-access modifiers:
+// we will mostly be using the first three non-access modifiers 
+- static 
+- final 
+- abstract
+- synchronized
+- volatile
+- transient
+- native 
+
+
+
+
+Methods: 
+independent units of execution 
+
+types: 
+- user-defined method 
+- standard library methods (methods that are predefined in java) 
+
+what is return type in java? 
+- it specifies what type of value/data type is returned by the method. it could be int, string, object 
+
+methodName
+- 
+
+
+
+
+
