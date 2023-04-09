@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-08T16:54:13 EDT" name="Default suite" finished-at="2023-04-08T16:54:18 EDT" duration-ms="5308">
+    <groups>
+    </groups>
+    <test started-at="2023-04-08T16:54:13 EDT" name="Default test" finished-at="2023-04-08T16:54:18 EDT" duration-ms="5308">
+      <class name="automation_code_march_29_2023.LoginToANewTab">
+        <test-method is-config="true" signature="ninjaTutorial()[pri:0, instance:automation_code_march_29_2023.LoginToANewTab@2a7f1f10]" started-at="2023-04-08T16:54:13 EDT" name="ninjaTutorial" finished-at="2023-04-08T16:54:17 EDT" duration-ms="4100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ninjaTutorial -->
+        <test-method signature="loginToNewTab()[pri:0, instance:automation_code_march_29_2023.LoginToANewTab@2a7f1f10]" started-at="2023-04-08T16:54:17 EDT" name="loginToNewTab" finished-at="2023-04-08T16:54:18 EDT" duration-ms="1149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToNewTab -->
+      </class> <!-- automation_code_march_29_2023.LoginToANewTab -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
